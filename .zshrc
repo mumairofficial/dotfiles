@@ -5,7 +5,7 @@
 export CURRENT_PROJECT="blog"
 
 # Path to your oh-my-zsh installation.
-export ZSH=/home/wes/.oh-my-zsh
+export ZSH=/home/umair/.oh-my-zsh
 
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
@@ -128,6 +128,6 @@ alias hl="heroku login"
 alias finnegan="ssh root@$FINNEGAN_VPS"
 
 source virtualenvwrapper.sh
-export PROJECT_HOME=/home/wes/projects
+export PROJECT_HOME=/home/umair/projects
 export GOPATH=$HOME/Go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin

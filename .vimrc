@@ -1,4 +1,4 @@
-" Wes Doyle vimrc
+" Umair Doyle vimrc
 " Last Update March 20 2018
 
 set nocompatible
