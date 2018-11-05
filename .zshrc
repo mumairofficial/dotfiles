@@ -127,7 +127,7 @@ alias hl="heroku login"
 # vps stuff
 alias finnegan="ssh root@$FINNEGAN_VPS"
 
-source virtualenvwrapper.sh
+#source virtualenvwrapper.sh
 export PROJECT_HOME=/home/umair/projects
 export GOPATH=$HOME/Go
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin

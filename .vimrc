@@ -1,4 +1,4 @@
-" Umair Doyle vimrc
+" Umair vimrc
 " Last Update March 20 2018
 
 set nocompatible
@@ -28,6 +28,8 @@ Plugin 'othree/javascript-libraries-syntax.vim'
 Plugin 'pangloss/vim-javascript'
 Plugin 'janko-m/vim-test'
 Plugin 'alfredodeza/coveragepy.vim'
+Plugin 'mattn/emmet-vim'
+Plugin 'jiangmiao/auto-pairs'
 
 " let Vundle manage Vundle, required
 Plugin 'VundleVim/Vundle.vim'
